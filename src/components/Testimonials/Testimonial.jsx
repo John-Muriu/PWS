@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I have woorked with John for various  projects",
+        " John is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him.",
     },
     // {
     //   img: profilePic2,
