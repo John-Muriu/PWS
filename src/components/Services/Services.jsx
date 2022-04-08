@@ -76,6 +76,34 @@ const Services = () => {
             color="rgba(252, 166, 31, 0.45)"
           />
         </motion.div>
+        <motion.div
+          initial={{ top: "19rem", left: "25rem" }}
+          whileInView={{ left: "12rem" }}
+          transition={transition}
+        >
+          <Card
+            emoji={Humble}
+            heading={"UI/UX"}
+            detail={
+              ""
+            }
+            color="rgba(252, 166, 31, 0.45)"
+          />
+        </motion.div>
+        <motion.div
+          initial={{ top: "19rem", right: "25rem" }}
+          whileInView={{ left: "12rem" }}
+          transition={transition}
+        >
+          <Card
+            emoji={Humble}
+            heading={"UI/UX"}
+            detail={
+              ""
+            }
+            color="rgba(252, 166, 31, 0.45)"
+          />
+        </motion.div>
         <div
           className="blur s-blur2"
           style={{ background: "var(--purple)" }}
