@@ -4,7 +4,7 @@ import Upwork from "../../img/node.png";
 import Fiverr from "../../img/ngao.png";
 import Amazon from "../../img/termii.png";
 import Shopify from "../../img/bulkgate.png";
-// import Facebook from "../../img/";
+// import Facebook from "../../img/shoeboxx.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import {Link} from 'react-scroll'
